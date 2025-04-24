@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.ttklia_user"
+    namespace = "com.ttklia.ttklia_user"
     compileSdk = 35
     ndkVersion = "27.0.12077973"
 
