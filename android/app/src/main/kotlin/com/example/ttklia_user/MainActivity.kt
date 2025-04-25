@@ -1,4 +1,4 @@
-package com.example.ttklia_user
+package com.ttklia.ttklia_user
 
 import io.flutter.embedding.android.FlutterActivity
 
